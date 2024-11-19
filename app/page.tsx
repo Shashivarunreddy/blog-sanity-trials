@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Navbar from "./components/Navbar";
+
 import { client } from "./components/lib/sanity";
 import { simpleBlogCard } from "./components/lib/interface";
 import { Card, CardContent } from "@/components/ui/card";
